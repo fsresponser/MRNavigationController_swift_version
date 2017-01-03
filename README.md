@@ -1,12 +1,7 @@
 
 # MRNavigationController
-  MRNavigationController_swift is swift version of MRNavigationController[](https://github.com/renmax/MRNavigationController), just like the name address.
-  
-   [haha](https://github.com/renmax/MRNavigationController) 
-  
-  
-  MRNavigationController is a subclass of UINavigationController, which archive two kind of navigation transform style.
-
+  MRNavigationController_swift is swift version of [MRNavigationController](https://github.com/renmax/MRNavigationController),   just like the name address.
+    
 # Usage 
   just inherit MRNavigitionController instead of UINavigationController
 
